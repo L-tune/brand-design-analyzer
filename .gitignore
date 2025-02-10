@@ -1,0 +1,29 @@
+# Виртуальное окружение
+venv/
+env/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Временные файлы
+slides_images/
+*.jpg
+*.jpeg
+*.png
+*.pdf
+
+# Логи
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Отчеты и результаты анализа
+*_analysis_*.txt
+*_presentation_guide.pdf
